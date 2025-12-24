@@ -220,7 +220,7 @@ width: 100%;
 }
 
 .que{
-  background-image: url("/imagenes/fondogg.png");
+  background-image: url("imagenes/fondogg.png");
   background-size: cover;
   color: aliceblue;
   display: flex;
