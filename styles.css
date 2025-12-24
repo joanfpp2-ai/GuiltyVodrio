@@ -23,13 +23,15 @@ flex-direction: column;
   .laimg {
     display: none;
   }
-
-  .videito{
-    display: none;
-  }
+  
   .que{
   flex-direction: column; 
   padding-right: 10px;
+  }
+
+  .insano{
+    display: flex;
+    flex-direction:column;
   }
 }
 
