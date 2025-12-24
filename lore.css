@@ -1,0 +1,30 @@
+body
+{
+background-image: url("imagenes/fondogg.png");
+background-size: cover;
+}
+
+.vidio
+{
+width: 100%;
+aspect-ratio: 16/9;
+border-style: double;
+border-color: aliceblue;
+}
+
+.encabezado 
+{
+margin-bottom: 20px;
+margin-top: 20px;
+}
+
+.encabezado a
+{
+color: white;
+text-decoration: none;
+}
+
+.info h3{
+    color: white;
+}
+
